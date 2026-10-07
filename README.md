@@ -3,7 +3,7 @@
 # graphql — go-ruby-graphql
 
 [![License](https://img.shields.io/badge/license-BSD--3--Clause-blue)](LICENSE)
-[![Go](https://img.shields.io/badge/go-1.26.4%2B-00ADD8)](https://go.dev/dl/)
+[![Go](https://img.shields.io/badge/go-1.27.1%2B-00ADD8)](https://go.dev/dl/)
 [![CGO](https://img.shields.io/badge/cgo-0-1a7f37)](doc.go)
 [![Coverage](https://img.shields.io/badge/coverage-100%25-1a7f37)](.github/workflows/ci.yml)
 
